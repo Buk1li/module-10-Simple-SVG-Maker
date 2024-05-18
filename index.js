@@ -47,6 +47,6 @@ inquirer.prompt(questions).then(answers => {
   <text x="150" y="125" font-size="60" text-anchor="middle" fill="${answers.textColor}">${answers.text}</text>
 </svg>`;
 
-    fs.writeFileSync('logo.svg', svgContent.trim());
+    fs.writeFileSync('./examples/logo.svg', svgContent.trim());
     console.log('Generated logo.svg');
 });
