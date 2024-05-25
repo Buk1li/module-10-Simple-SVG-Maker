@@ -4,7 +4,7 @@
 - [Installation and Usage](#installation-and-usage)
 - [General Info](#general-info)
 - [License](#license)
-- [Screenshots](#screenshots)
+- [Video Walkthrough](#video-walkthrough)
 
 ## Installation and Usage
 N/A
