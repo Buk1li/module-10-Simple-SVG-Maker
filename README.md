@@ -17,4 +17,4 @@ This application allows the user to answer a set of questions in the command lin
 This project is unlicensed
 
 ## Video Walkthrough
-[![SVG Video Walkthrough](https://img.youtube.com/vi/KBflf1fJTvQ/0.jpg)](https://www.youtube.com/watch?v=KBflf1fJTvQ)
+[![SVG Video Walkthrough](https://img.youtube.com/GamDAD7KTO8/0.jpg)](https://www.youtube.com/watch?v=GamDAD7KTO8)
